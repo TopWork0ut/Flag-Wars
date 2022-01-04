@@ -1,4 +1,4 @@
- #Flag Wars
+ Flag Wars
  
  First game from school created in 2019
  
